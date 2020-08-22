@@ -31,7 +31,7 @@ h4,
 h5,
 h6,
 strong {
-  color: var(--maintext);
+  color: var(--mainText);
   font-family: "Poppins", sans-serif;
   font-weight: 500px;
 }
@@ -42,13 +42,13 @@ span,
 input,
 label,
 textarea {
-  color: var(--seconadryText);
+  color: var(--secondaryText);
   font-family: "Roboto Condensed", sans-serif;
 }
 
 a {
   text-decoration: none;
-  color: #17a2b8;
+  color:var(--mainText);
 }
 
 ul {
