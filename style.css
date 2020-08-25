@@ -21,7 +21,7 @@ body {
 
 body,
 * {
-  transition: 0.2s;
+  transition: 0.1s;
 }
 
 h1,
@@ -287,6 +287,7 @@ h6 {
 }
 .pic {
   width: 150px;
+  height: 200px;
 }
 
 .post-wrapper {
