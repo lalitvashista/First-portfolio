@@ -371,6 +371,10 @@ h6 {
 }
 
 @media screen and (max-width: 1200px) {
+  body{
+    overflow-x: hidden;
+  }
+  
   .intro-wrapper {
     grid-template-columns: 1fr;
     grid-template-areas:
